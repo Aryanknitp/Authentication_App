@@ -127,33 +127,6 @@ http://localhost:5000
 
 ---
 
-## API Endpoints
-
-### Register User
-
-```
-POST /api/auth/register
-```
-
-### Login User
-
-```
-POST /api/auth/login
-```
-
-### Verify OTP
-
-```
-POST /api/auth/verify-otp
-```
-
-### Reset Password
-
-```
-POST /api/auth/reset-password
-```
-
----
 
 ## Security Features
 
